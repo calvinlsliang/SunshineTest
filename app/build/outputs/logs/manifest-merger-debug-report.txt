@@ -4,25 +4,28 @@ ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\m
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
-MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\faf93b531b79c8f045de9672a7a5d3e5\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\51ce59cbd947cb7942783724804cfcd4\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\a442c9767012d1d716e4b965839b60f7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\582b9f2267d544546a0f5a332b5626fc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7b7d68b5e2361b58f9980a613ed98be3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\9c04e1d192fc4689da5251453b93292b\AndroidManifest.xml:2:1-11:12
-MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:17:1-42:12
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\fc7f4256114d352da052509f93e162a4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\73b430297ac5cf8f657c2cd90ba2e683\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c75518da30183127f7ae71f18383649b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1889a4da43cbf586b4753d9a8edf9b3d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\70521c0226ef5e956414f8b04d887616\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50ed438bebcbc1486ad5fa98bde6dd00\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cad7fd9b517d68af115fb7d34505112b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e78396943214b8ab2a24dabdf9ed0bfa\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c107e611c6ba46797f426365ac262592\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96588b46dacaeac6872bf15f08abbd2f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f392106e1e4ff21dc8389eb26d32832\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a5beaca3b8195ce9b7f9a4e7532e965\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\cd4cd1d894962a34a5c27a43ac73e4a3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\4aa7f3e16b42110f7d1c1ce3ec0e36ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\510387f20cd8f37d069c374093f2e4ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\7f3af9e79b3cfb94511af31e7ce79465\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\51cfb3482ae6394ebf54697c9d9c2a6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\d6abb0451e3976a00486d2c9fd643471\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bcfbbdc8d4b929fb57f8e7c9e7918f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\dd99cac0248b00f499c30fcbabc06be7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b99cf18b32fcd01ab9bd7250fdd222c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e9938e140f3d418d4898018bf5d93564\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\e9f9ae34a5f41247f6f7d3c8475f526c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e9b6e61adc6ec4eedefafb040e9fd090\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\9a493511e6b28eba16c4c22e83beeb85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\c58aac4240a74cfe7873fcd1e51893f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\415670ce877bceabf8527d32d25be2ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8261fd73aaf323917f53a5a9648960de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\2a4be1b089b0cf28cb0b0f060873f046\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\948f00683ed250f1db2c435bafa07772\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc6fb36480945483c3be5649256bf2f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922de138e518b597b9cbdb9920d24bea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4371cdf78f928750d7a1a26974d19de1\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:17:1-70:12
@@ -46,10 +49,10 @@ ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\m
 		ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:22:22-64
 application
 ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:24:5-69:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\9c04e1d192fc4689da5251453b93292b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\9c04e1d192fc4689da5251453b93292b\AndroidManifest.xml:9:5-20
-MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:26:5-40:19
-MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\d6abb0451e3976a00486d2c9fd643471\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\d6abb0451e3976a00486d2c9fd643471\AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:26:5-40:19
 	android:supportsRtl
 		ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml:28:9-35
 	android:label
@@ -118,44 +121,50 @@ uses-sdk
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
-MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\faf93b531b79c8f045de9672a7a5d3e5\AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\faf93b531b79c8f045de9672a7a5d3e5\AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\51ce59cbd947cb7942783724804cfcd4\AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\51ce59cbd947cb7942783724804cfcd4\AndroidManifest.xml:22:5-44
-MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\a442c9767012d1d716e4b965839b60f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\a442c9767012d1d716e4b965839b60f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\582b9f2267d544546a0f5a332b5626fc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\582b9f2267d544546a0f5a332b5626fc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7b7d68b5e2361b58f9980a613ed98be3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\7b7d68b5e2361b58f9980a613ed98be3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\9c04e1d192fc4689da5251453b93292b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\9c04e1d192fc4689da5251453b93292b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\fc7f4256114d352da052509f93e162a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\fc7f4256114d352da052509f93e162a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\73b430297ac5cf8f657c2cd90ba2e683\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\73b430297ac5cf8f657c2cd90ba2e683\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c75518da30183127f7ae71f18383649b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c75518da30183127f7ae71f18383649b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1889a4da43cbf586b4753d9a8edf9b3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1889a4da43cbf586b4753d9a8edf9b3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\70521c0226ef5e956414f8b04d887616\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\70521c0226ef5e956414f8b04d887616\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50ed438bebcbc1486ad5fa98bde6dd00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50ed438bebcbc1486ad5fa98bde6dd00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cad7fd9b517d68af115fb7d34505112b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cad7fd9b517d68af115fb7d34505112b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e78396943214b8ab2a24dabdf9ed0bfa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e78396943214b8ab2a24dabdf9ed0bfa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c107e611c6ba46797f426365ac262592\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c107e611c6ba46797f426365ac262592\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96588b46dacaeac6872bf15f08abbd2f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96588b46dacaeac6872bf15f08abbd2f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f392106e1e4ff21dc8389eb26d32832\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f392106e1e4ff21dc8389eb26d32832\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a5beaca3b8195ce9b7f9a4e7532e965\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a5beaca3b8195ce9b7f9a4e7532e965\AndroidManifest.xml:20:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\cd4cd1d894962a34a5c27a43ac73e4a3\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\adapters-3.2.1.aar\cd4cd1d894962a34a5c27a43ac73e4a3\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\4aa7f3e16b42110f7d1c1ce3ec0e36ba\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\library-3.2.1.aar\4aa7f3e16b42110f7d1c1ce3ec0e36ba\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\510387f20cd8f37d069c374093f2e4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\510387f20cd8f37d069c374093f2e4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\7f3af9e79b3cfb94511af31e7ce79465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\7f3af9e79b3cfb94511af31e7ce79465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\51cfb3482ae6394ebf54697c9d9c2a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\51cfb3482ae6394ebf54697c9d9c2a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\d6abb0451e3976a00486d2c9fd643471\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\d6abb0451e3976a00486d2c9fd643471\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bcfbbdc8d4b929fb57f8e7c9e7918f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bcfbbdc8d4b929fb57f8e7c9e7918f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\dd99cac0248b00f499c30fcbabc06be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\dd99cac0248b00f499c30fcbabc06be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b99cf18b32fcd01ab9bd7250fdd222c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\b99cf18b32fcd01ab9bd7250fdd222c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e9938e140f3d418d4898018bf5d93564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e9938e140f3d418d4898018bf5d93564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\e9f9ae34a5f41247f6f7d3c8475f526c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\e9f9ae34a5f41247f6f7d3c8475f526c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e9b6e61adc6ec4eedefafb040e9fd090\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\e9b6e61adc6ec4eedefafb040e9fd090\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\9a493511e6b28eba16c4c22e83beeb85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\9a493511e6b28eba16c4c22e83beeb85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\c58aac4240a74cfe7873fcd1e51893f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\c58aac4240a74cfe7873fcd1e51893f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\415670ce877bceabf8527d32d25be2ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\415670ce877bceabf8527d32d25be2ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8261fd73aaf323917f53a5a9648960de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8261fd73aaf323917f53a5a9648960de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\2a4be1b089b0cf28cb0b0f060873f046\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\2a4be1b089b0cf28cb0b0f060873f046\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\948f00683ed250f1db2c435bafa07772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\948f00683ed250f1db2c435bafa07772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc6fb36480945483c3be5649256bf2f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc6fb36480945483c3be5649256bf2f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922de138e518b597b9cbdb9920d24bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\922de138e518b597b9cbdb9920d24bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4371cdf78f928750d7a1a26974d19de1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4371cdf78f928750d7a1a26974d19de1\AndroidManifest.xml:20:5-44
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
 INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -167,16 +176,16 @@ INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\sr
 		ADDED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Users\hobbes\AndroidStudioProjects\Sunshine\SunshineTest\app\src\main\AndroidManifest.xml
 service#com.firebase.jobdispatcher.GooglePlayReceiver
-ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:32:9-39:19
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:32:9-39:19
 	android:exported
-		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:34:13-36
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:34:13-36
 	android:permission
-		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:35:13-93
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:35:13-93
 	android:name
-		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:33:13-73
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:33:13-73
 intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
-ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:36:13-38:29
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:36:13-38:29
 action#com.google.android.gms.gcm.ACTION_TASK_READY
-ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:37:17-87
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:37:17-87
 	android:name
-		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\2984d485d0bab4ef82eae73d66497d1c\AndroidManifest.xml:37:25-84
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\hobbes\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\4c71dc259a6b739ddaaf8d8a66ca1529\AndroidManifest.xml:37:25-84
